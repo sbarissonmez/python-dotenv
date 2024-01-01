@@ -25,3 +25,5 @@ Utilize your preferred code editor for efficient script development.
 
 Gain access to a Cisco CSR 1000V router or use the IOS XE CSR Sandbox in the DevNet Sandbox (requires a developer.cisco.com login).
 This tutorial aims to empower you with practical skills to secure and optimize your Python scripts. Let’s embark on this insightful journey!
+
+For more information check out this link > https://medium.com/@sbarissonmez/storing-credentials-and-configuration-values-securely-with-a-env-file-in-python-7f3033885999
